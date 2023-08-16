@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+}
+
+#cards {
+  margin-left: 10%;
+  margin-right: 10%;
+  
+}
+
+button {
+  border: 5px solid black;
+  padding: 14px 28px;
+  height: 50%;
+  width: 50%;
+}
+
+.notFlipped {
+  background-color: white;
+}
+.notFlipped img {
+  opacity: 0;
+}
+
+.flipped {
+  background-color: rgb(241, 60, 60);
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
